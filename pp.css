@@ -1,0 +1,134 @@
+.mainpg{
+    padding:18px;
+    background-color: rgb(56, 52, 255);
+    background-color: #eef9ff;
+}
+
+
+.page_content{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width:85vw;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:rgb(255, 255, 255);
+    padding:8px;
+}
+.heading1{
+    font-size:65px;
+    text-decoration:none;
+    color: rgb(1, 14, 48);
+}
+.para{
+    font-size:18.6px;
+    color:rgb(1, 14, 48);
+}
+.tag{
+    background-color:white;
+    width:0px;
+    height:0px;
+}
+.listele{
+    font-weight:bold;
+    font-size:25px;
+}
+.list{
+    list-style-type:numeric;
+}
+.insidelist{
+    list-style-type:disc;
+    list-style-position: inside;
+    color:0a0f2b;
+}
+.hehe{
+    background-color:rgb(218, 213, 255);
+    opacity:inherit;
+    width:fit-content;
+}
+.ool{
+    list-style-type:lower-roman;
+    color:rgb(1, 14, 48);
+}
+.bebeb{
+    font-size:18px;
+    font-weight:bold;
+}
+.yay{
+    list-style-type:disc;
+    color:rgb(1, 14, 48);
+}
+.bebeb2{
+    font-size:18.3px;
+    font-weight:bold;
+}
+.mainlist{
+    color:rgb(1, 14, 48);
+}
+.minion{
+    color:rgb(1, 14, 48);
+}
+.lockimage{
+    margin-right:0px;
+    margin-top:5px;
+    margin-left:0px;
+    height:142px;
+    width:116px;
+    margin-bottom: 18px;
+}
+.consent{
+    
+    height:270px;
+    width:470px;
+    margin-bottom:6px;
+}
+.link{
+    height:100px;
+    width:100px;
+    margin-right:0px;
+    margin-left:0px;
+    margin-bottom:18px;
+}
+.call{
+    margin-top:12px;
+    height:120px;
+    width:120px;
+    margin-left:108px;
+}
+.retension{
+    margin-top:0px;
+    height:220px;
+    width:220px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:18px;
+
+}
+.info{
+    margin-left:18px;
+    margin-right:6px;
+    margin-top:12px;
+    margin-bottom:18px;
+}
+.personalinfo{
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:32px;
+    height:180px;
+    width:180px;
+    margin-bottom:18px;
+}
+.eyelogo{
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:0px;
+    height:180px;
+    width:185px;
+    margin-bottom:2px;
+}
+.handkey{
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:0px;
+    height:170px;
+    width:175px;
+    margin-bottom:18px;
+}
